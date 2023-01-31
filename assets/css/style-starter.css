@@ -18909,15 +18909,11 @@ a.text-dark:focus {
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
-}
-
-#carouselExampleIndicators{
-  background: url(../images/Banner1.jpeg) no-repeat center;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -ms-background-size: cover;
-  -moz-background-size: cover;
+  z-index: 9;
+  position: relative;
+  min-height: 30em;
+  display: grid;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style-starter.css.map */

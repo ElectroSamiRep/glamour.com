@@ -18902,4 +18902,18 @@ a.text-dark:focus {
   }
 }
 
+.w3l-banner-slider-main .top-header-content .bannerhny-content{
+  background: url(../images/Banner1.png) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  -moz-background-size: cover;
+  z-index: 9;
+  position: relative;
+  min-height: 30em;
+  display: grid;
+  align-items: center;
+}
+
 /*# sourceMappingURL=style-starter.css.map */

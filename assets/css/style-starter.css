@@ -18902,4 +18902,13 @@ a.text-dark:focus {
   }
 }
 
+.w3l-banner-slider-main .top-header-content{
+  background: url(../images/Banner1.jpeg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  -moz-background-size: cover;
+}
+
 /*# sourceMappingURL=style-starter.css.map */

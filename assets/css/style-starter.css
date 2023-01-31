@@ -18902,7 +18902,7 @@ a.text-dark:focus {
   }
 }
 
-.w3l-banner-slider-main .top-header-content .bannerhny-content{
+.w3l-banner-slider-main .top-header-content .bannerhny-content .content-baner-inf .carousel.slide .carousel-inner{
   background: url(../images/Banner1.png) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
